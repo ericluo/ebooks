@@ -1,3 +1,3 @@
-# My Awesome Book
+# 前言
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本电子书收集了历年巴菲特、芒格在伯克希尔股东大会上问答笔记。由@RanRan收集并翻译。
