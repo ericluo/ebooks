@@ -59,7 +59,7 @@
 * [专家观点](霍华德马克思备忘录/2017-01-10：专家观点.md)
 * [重蹈覆辙，再一次](霍华德马克思备忘录\2017-07-26-重蹈覆辙，再一次.md)
 * [Yet Again?](霍华德马克思备忘录\2017-09-07-Yet-Again.markdown)
-* [Lastest Thinking]((霍华德马克思备忘录\2018-01-23-lastest-thinking.markdown))
+* [Lastest Thinking](霍华德马克思备忘录\2018-01-23-lastest-thinking.markdown)
 
 ### 其他杂项
 
