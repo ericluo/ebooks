@@ -44,6 +44,8 @@
 ### 查理芒格
 
 * [2019 年 Daily Journal 年会文字记录](查理芒格/2019年 Daily Journal 年会文字记录.md)
+* [2020 年 Daily Journal 年会文字记录](查理芒格/2020年 Daily Journal 年会文字记录.md)
+* [2021 年 Daily Journal 年会文字记录](查理芒格/2021年 Daily Journal 年会文字记录.md)
 
 ### 穿越迷雾的十个附录
 
