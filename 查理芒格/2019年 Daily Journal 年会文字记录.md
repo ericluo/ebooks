@@ -1,4 +1,4 @@
-# 2019 年 Daily Journal 年会文字记录
+# 2019年 Daily Journal 年会文字记录
 
 英文文本来源：Richard Lewis，http://latticeworkinvesting.com/
 
@@ -6,7 +6,7 @@
 
 翻译：RanRan 链接：https://xueqiu.com/1173786903/122640780
 
-### 第一部分
+### 第一部分 芒格讲话
 
 芒格：能听到我讲话吗？
 
